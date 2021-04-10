@@ -34,3 +34,24 @@ Please see [contributing.md](contributing.md) for details and a todolist.
 ## Security
 
 If you discover any security related issues, please email iabouelftouh@gmail.com instead of using the issue tracker.
+
+## Credits
+
+- [Ahmed Hoseiny][link-author]
+- [All Contributors][link-contributors]
+
+## License
+
+license. Please see the [license file](license.md) for more information.
+
+[ico-version]: https://img.shields.io/packagist/v/hoseiny/movies.svg?style=flat-square
+[ico-downloads]: https://img.shields.io/packagist/dt/hoseiny/movies.svg?style=flat-square
+[ico-travis]: https://img.shields.io/travis/hoseiny/movies/master.svg?style=flat-square
+[ico-styleci]: https://styleci.io/repos/12345678/shield
+
+[link-packagist]: https://packagist.org/packages/hoseiny/movies
+[link-downloads]: https://packagist.org/packages/hoseiny/movies
+[link-travis]: https://travis-ci.org/hoseiny/movies
+[link-styleci]: https://styleci.io/repos/12345678
+[link-author]: hhttps://github.com/AhmedHoseiny
+[link-contributors]: ../../contributors
